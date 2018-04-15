@@ -1,0 +1,15 @@
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\bin\Debug\Deck.exe.config
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\bin\Debug\Deck.exe
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\bin\Debug\Deck.pdb
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\bin\Debug\Deck.xml
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.vbprojResolveAssemblyReference.cache
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.Form1.resources
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.Resources.resources
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.vbproj.GenerateResource.Cache
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.exe
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.xml
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\obj\Debug\Deck.pdb
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\Deck\bin\Debug\Deck.exe.config
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\Deck\obj\Debug\Deck.exe
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\Deck\obj\Debug\Deck.xml
+D:\Locker\Files\Projects\CP II\VB.NET\Deck\Deck\Deck\Deck\obj\Debug\Deck.pdb
